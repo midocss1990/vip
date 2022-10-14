@@ -1,0 +1,64 @@
+"Weapon_colors"
+{
+	"Red"
+	{
+		"color" "255 0 0 255"
+	}
+	"Blue"
+	{
+		"color" "0 0 255 255"
+	}
+	"Green"
+	{
+		"color" "0 255 0 255"
+	}
+	"Peach"
+	{
+		"color" "255 229 180 255"
+	}
+	"White"
+	{
+		"color" "255 255 255 255"
+	}
+	"Yellow"
+	{
+		"color" "255 255 0 255"
+	}	
+	"Violet"
+	{
+		"color" "128 0 255 255"   
+	}
+	"LightBlue"
+	{
+		"color" "0 128 255 255" 
+	}
+	"Orange"
+	{
+		"color" "255 102 0 255"   
+	}
+	"Black"
+	{
+		"color" "0 0 51 255"  
+	}
+	"Dark Blue"
+	{
+		"color" "25 25 112 255"  
+	}
+	"Red Orange"
+	{
+		"color" "139 37 0 255"    
+	}
+	"Pink"
+	{
+		"color" "255 20 147 255" 
+	}
+	"Dark Red"
+	{
+		"color" "139 0 0 255"  
+	}
+	"LightGreen"
+	{
+		"color" "144 238 144 255"   
+	}
+	
+}
